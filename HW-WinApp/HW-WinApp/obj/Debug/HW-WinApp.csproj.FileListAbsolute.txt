@@ -1,0 +1,10 @@
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\bin\Debug\HW-WinApp.exe.config
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\bin\Debug\HW-WinApp.exe
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\bin\Debug\HW-WinApp.pdb
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW-WinApp.csprojAssemblyReference.cache
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW_WinApp.Form1.resources
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW_WinApp.Properties.Resources.resources
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW-WinApp.csproj.GenerateResource.cache
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW-WinApp.csproj.CoreCompileInputs.cache
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW-WinApp.exe
+C:\Users\s84671\source\repos\HW-WinApp\HW-WinApp\obj\Debug\HW-WinApp.pdb
